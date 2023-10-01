@@ -6,5 +6,6 @@
 <ul>  
   <li>Intersection Over Union PyTorch Implementation</li>
   <li>Non-maximum Supression PyTorch Implementation</li>
+  <li>Mean Average precision PyTorch Implementation</li>
 </ul>
 
